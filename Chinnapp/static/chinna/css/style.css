@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(170, 165, 165, 0.274);
+    color: rgb(26, 5, 5);
+}
+
+img {
+    background-color: whitesmoke;
+    border-radius: 100%;
+    margin-left: 140px;
+    width: 150px;
+    height: 100px;
+}
